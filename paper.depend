@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1728314308 source:c:\users\4t4\desktop\c++\irreducible k edit\paper\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<unordered_set>
+
+1736686561 source:c:\users\4t4\desktop\c++\irreducible k edit\papermedians (this)\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<unordered_set>
+
